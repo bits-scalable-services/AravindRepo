@@ -1,2 +1,2 @@
-# AravindRepo
-Aravind Repo for a single microservice
+# 2022MT93124-prudhvi-service
+Scalable services Assignment Micro-service

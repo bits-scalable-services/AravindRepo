@@ -1,0 +1,13 @@
+FROM node:12-alpine3.14
+
+WORKDIR server.js
+
+COPY package*.json ./
+
+RUN npm install
+
+COPY 
+
+EXPOSE 8080
+
+CMD [ "npm", "start" ]
